@@ -29,7 +29,7 @@ common Ruby AMQP client libraries.
     "lib/rabbitmq_service_util.rb",
     "rabbitmq-service-util.gemspec"
   ]
-  s.homepage = %q{http://github.com/rabbitmq/rabbitmq-service-util}
+  s.homepage = %q{https://github.com/rabbitmq/rabbitmq-service-util}
   s.licenses = [%q{MIT}]
   s.require_paths = [%q{lib}]
   s.rubygems_version = %q{1.8.6}

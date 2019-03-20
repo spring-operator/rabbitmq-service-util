@@ -6,8 +6,8 @@ common Ruby AMQP client libraries, such as the
 [amqp gem](https://github.com/ruby-amqp/amqp) or
 [bunny gem](https://github.com/ruby-amqp/bunny)
 
-Currently supports [Cloud Foundry](http://www.cloudfoundry.com) and
-[Heroku](http://heroku.com).
+Currently supports [Cloud Foundry](https://www.cloudfoundry.org) and
+[Heroku](https://heroku.com).
 
 ## Getting started
 

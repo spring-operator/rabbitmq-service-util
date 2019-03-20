@@ -12,7 +12,7 @@ require 'rake'
 
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
-  # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
+  # gem is a Gem::Specification... see https://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "rabbitmq-service-util"
   gem.version = "0.3"
   gem.license = "MIT"
@@ -24,7 +24,7 @@ common Ruby AMQP client libraries.
 }
   gem.email = "info@rabbitmq.com"
   gem.authors = ["The RabbitMQ team at VMware"]
-  gem.homepage = "http://github.com/rabbitmq/rabbitmq-service-util"
+  gem.homepage = "https://github.com/rabbitmq/rabbitmq-service-util"
   gem.files = FileList["**/*"].exclude("*~")
   gem.executables = FileList["bin/*"].pathmap("%f")
 end
